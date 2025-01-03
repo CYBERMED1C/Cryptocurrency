@@ -78,6 +78,7 @@ These maps visually represent the relationship between cryptocurrencies, showing
 
 - [Messari: Crypto Ecosystem Map](https://messari.io/) – A detailed bubble map that shows the relationships between major cryptocurrencies and their roles within the blockchain ecosystem.
 - [Coin360: Crypto Market Heatmap](https://coin360.com/) – A heatmap visualizing market performance, showing the relative market cap, trading volume, and price movements of various cryptocurrencies in real-time.
+- [Bubble Map ](https://cryptobubbles.net/) – Explore the dynamic world of cryptocurrencies with Crypto Bubbles, an interactive visualization tool
 
 ---
 

@@ -63,14 +63,6 @@ These resources are designed to help you learn about cryptocurrency, blockchain 
 
 ---
 
-## External Resources
-Here are some additional external resources to help you in your cryptocurrency investment journey:
-
-- [Binance Academy](https://academy.binance.com/) – A cryptocurrency learning hub by Binance offering courses, tutorials, and articles on crypto-related topics.
-- [BitcoinTalk](https://bitcointalk.org/) – The largest online forum dedicated to Bitcoin and cryptocurrency discussions, where you can find news, projects, and investment tips.
-- [Reddit Cryptocurrency](https://www.reddit.com/r/CryptoCurrency/) – A popular Reddit community where cryptocurrency enthusiasts share news, resources, and investment tips.
-
----
 
 ## Bitcoin to Altcoin Map
 These tools and platforms help you understand the market dynamics between Bitcoin and altcoins, providing insights into trends, dominance, and potential investment strategies.
@@ -89,10 +81,11 @@ These maps visually represent the relationship between cryptocurrencies, showing
 
 ---
 
-## Live Trading Signal Links
-Stay updated with live trading signals, market trends, and analysis from trusted crypto trading platforms.
+## External Resources
+Here are some additional external resources to help you in your cryptocurrency investment journey:
 
-- [CryptoSignal](https://cryptosignal.io/) – A platform offering live cryptocurrency trading signals, including buy and sell alerts for various coins.
-- [TradeSanta](https://tradesanta.com/) – An automated crypto trading bot that offers live signals, strategy backtesting, and real-time trade execution.
-- [Learn2Trade](https://learn2.trade/) – A service offering live trading signals, including cryptocurrency, forex, and commodities, with expert analysis.
-- [Signal Premium](https://www.signalpremium.com/) – A provider of live trading signals, offering insights into various cryptocurrencies and market conditions.
+- [Binance Academy](https://academy.binance.com/) – A cryptocurrency learning hub by Binance offering courses, tutorials, and articles on crypto-related topics.
+- [BitcoinTalk](https://bitcointalk.org/) – The largest online forum dedicated to Bitcoin and cryptocurrency discussions, where you can find news, projects, and investment tips.
+- [Reddit Cryptocurrency](https://www.reddit.com/r/CryptoCurrency/) – A popular Reddit community where cryptocurrency enthusiasts share news, resources, and investment tips.
+
+---
